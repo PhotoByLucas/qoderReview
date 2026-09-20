@@ -19,3 +19,4 @@
 ![alt text](./image/9/image.png)
 10. 暗色模式切换后icon会有自适应,非常好评
 ![alt text](./image/10/image.png)
+11. 在pc端中，qoder是支持跳转阿里云登录页，通过支付宝直接扫码打开的，但是移动端没有支持支付宝登录
